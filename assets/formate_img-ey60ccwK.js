@@ -1,0 +1,1 @@
+const s=s=>{let e;return s?(e=-1!==s.indexOf("jpeg")?".jpeg":".png","https://fuss10.elemecdn.com"+("/"+s.substr(0,1)+"/"+s.substr(1,2)+"/"+s.substr(3)+e)):"//elm.cangdu.org/img/default.jpg"},e=s=>"https://elm.cangdu.org/img/"+s;export{s as a,e as f};

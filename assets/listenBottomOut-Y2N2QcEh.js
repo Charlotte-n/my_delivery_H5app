@@ -1,0 +1,1 @@
+const l=(l,e,o)=>()=>{((null==o?void 0:o.scrollTop)||document.documentElement.scrollTop||document.body.scrollTop)+((null==o?void 0:o.clientHeight)||document.documentElement.clientHeight)>=((null==o?void 0:o.scrollHeight)||document.documentElement.scrollHeight)-1&&(l.value||e())};export{l};
