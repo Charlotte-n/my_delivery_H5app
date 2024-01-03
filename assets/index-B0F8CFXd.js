@@ -1,1 +1,0 @@
-import{_ as s,b as e,c as a,f as o,R as d}from"./index-ezaKyRUM.js";const r={ref:"header"},t={class:"first"},c={class:"second"};const i=s({},[["render",function(s,i){return e(),a("header",r,[o("div",t,[d(s.$slots,"first",{},void 0,!0)]),o("div",c,[d(s.$slots,"second",{},void 0,!0)])],512)}],["__scopeId","data-v-3aee7c02"]]);export{i as H};
