@@ -1,1 +1,0 @@
-import{r as e,K as a,V as n,D as s,u as t,B as o}from"./index-lwfdNeUd.js";const r=e(0),u=2e3,d=Symbol("zIndexContextKey"),x=e=>{const u=e||(a()?n(d,void 0):void 0),x=s((()=>{const e=t(u);return o(e)?e:2e3})),i=s((()=>x.value+r.value));return{initialZIndex:x,currentZIndex:i,nextZIndex:()=>(r.value++,i.value)}};export{u as d,x as u,d as z};

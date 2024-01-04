@@ -1,1 +1,0 @@
-import{ay as e,r as s}from"./index-lwfdNeUd.js";const t=e("position",(()=>{const e=s(""),t=s(""),r=s(""),a=s([]);return{longitude:e,latitude:t,geohash:r,history:a,changeHistory:e=>{a.value.push(e),a.value=Array.from(new Set(a.value))},reset:()=>{a.value=[]}}}),{persist:!0});export{t as u};
