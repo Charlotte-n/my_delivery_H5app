@@ -1,1 +1,0 @@
-import{s}from"./index-Li4iQ5F3.js";const a=a=>s.get({url:"/bos/orders",params:a}).then((s=>s.data)),r=(a,r)=>s.get({url:`/bos/v1/users/${a}/orders/${r}/snapshot`}).then((s=>s.data)),t=a=>s.get({url:`/v1/carts/${a}/remarks`}).then((s=>s.data));export{r as a,t as b,a as g};

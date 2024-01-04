@@ -1,1 +1,0 @@
-import{s as t}from"./index-Li4iQ5F3.js";const a=a=>t.get({url:`/v1/cities?type=${a}`}).then((t=>t.data)),e=a=>t.get({url:"/v1/cities/"+a}).then((t=>t.data)),s=(a,e)=>t.get({url:"/v1/pois",params:{city_id:a,keyword:e}}).then((t=>t.data)),i=a=>t.get({url:"/v2/pois/"+a}).then((t=>t.data));export{e as a,i as b,a as g,s};
